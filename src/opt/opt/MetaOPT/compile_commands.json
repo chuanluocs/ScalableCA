@@ -1,0 +1,200 @@
+[
+ {
+  "directory": "/home/linjk/tmp/CA/autoCCAG/AutoCCAG_without_acts/MetaTCA",
+  "arguments": [
+   "g++",
+   "--std=c++0x",
+   "-DNDEBUG",
+   "-O2",
+   "-c",
+   "-o",
+   "Options.o",
+   "Options.cc"
+  ],
+  "file": "Options.cc"
+ },
+ {
+  "directory": "/home/linjk/tmp/CA/autoCCAG/AutoCCAG_without_acts/MetaTCA",
+  "arguments": [
+   "g++",
+   "--std=c++0x",
+   "-DNDEBUG",
+   "-O2",
+   "-c",
+   "-o",
+   "SpecificationFile.o",
+   "SpecificationFile.cc"
+  ],
+  "file": "SpecificationFile.cc"
+ },
+ {
+  "directory": "/home/linjk/tmp/CA/autoCCAG/AutoCCAG_without_acts/MetaTCA",
+  "arguments": [
+   "g++",
+   "--std=c++0x",
+   "-DNDEBUG",
+   "-O2",
+   "-c",
+   "-o",
+   "PascalTriangle.o",
+   "PascalTriangle.cc"
+  ],
+  "file": "PascalTriangle.cc"
+ },
+ {
+  "directory": "/home/linjk/tmp/CA/autoCCAG/AutoCCAG_without_acts/MetaTCA",
+  "arguments": [
+   "g++",
+   "--std=c++0x",
+   "-DNDEBUG",
+   "-O2",
+   "-c",
+   "-o",
+   "Combinadic.o",
+   "Combinadic.cc"
+  ],
+  "file": "Combinadic.cc"
+ },
+ {
+  "directory": "/home/linjk/tmp/CA/autoCCAG/AutoCCAG_without_acts/MetaTCA",
+  "arguments": [
+   "g++",
+   "--std=c++0x",
+   "-DNDEBUG",
+   "-O2",
+   "-c",
+   "-o",
+   "ConstraintFile.o",
+   "ConstraintFile.C"
+  ],
+  "file": "ConstraintFile.C"
+ },
+ {
+  "directory": "/home/linjk/tmp/CA/autoCCAG/AutoCCAG_without_acts/MetaTCA",
+  "arguments": [
+   "g++",
+   "--std=c++0x",
+   "-DNDEBUG",
+   "-O2",
+   "-c",
+   "-o",
+   "LocalSearch.o",
+   "LocalSearch.cc"
+  ],
+  "file": "LocalSearch.cc"
+ },
+ {
+  "directory": "/home/linjk/tmp/CA/autoCCAG/AutoCCAG_without_acts/MetaTCA",
+  "arguments": [
+   "g++",
+   "--std=c++0x",
+   "-DNDEBUG",
+   "-O2",
+   "-c",
+   "-o",
+   "LineVarTupleSet.o",
+   "LineVarTupleSet.cc"
+  ],
+  "file": "LineVarTupleSet.cc"
+ },
+ {
+  "directory": "/home/linjk/tmp/CA/autoCCAG/AutoCCAG_without_acts/MetaTCA",
+  "arguments": [
+   "g++",
+   "--std=c++0x",
+   "-DNDEBUG",
+   "-O2",
+   "-c",
+   "-o",
+   "Coverage.o",
+   "Coverage.cc"
+  ],
+  "file": "Coverage.cc"
+ },
+ {
+  "directory": "/home/linjk/tmp/CA/autoCCAG/AutoCCAG_without_acts/MetaTCA",
+  "arguments": [
+   "g++",
+   "--std=c++0x",
+   "-DNDEBUG",
+   "-O2",
+   "-c",
+   "-o",
+   "CoveringArray.o",
+   "CoveringArray.cc"
+  ],
+  "file": "CoveringArray.cc"
+ },
+ {
+  "directory": "/home/linjk/tmp/CA/autoCCAG/AutoCCAG_without_acts/MetaTCA",
+  "arguments": [
+   "g++",
+   "--std=c++0x",
+   "-DNDEBUG",
+   "-O2",
+   "-c",
+   "-o",
+   "TupleSet.o",
+   "TupleSet.cc"
+  ],
+  "file": "TupleSet.cc"
+ },
+ {
+  "directory": "/home/linjk/tmp/CA/autoCCAG/AutoCCAG_without_acts/MetaTCA",
+  "arguments": [
+   "g++",
+   "--std=c++0x",
+   "-DNDEBUG",
+   "-O2",
+   "-c",
+   "-o",
+   "mersenne.o",
+   "mersenne.cc"
+  ],
+  "file": "mersenne.cc"
+ },
+ {
+  "directory": "/home/linjk/tmp/CA/autoCCAG/AutoCCAG_without_acts/MetaTCA",
+  "arguments": [
+   "g++",
+   "--std=c++0x",
+   "-DNDEBUG",
+   "-O2",
+   "-c",
+   "-o",
+   "SAT.o",
+   "SAT.C"
+  ],
+  "file": "SAT.C"
+ },
+ {
+  "directory": "/home/linjk/tmp/CA/autoCCAG/AutoCCAG_without_acts/MetaTCA",
+  "arguments": [
+   "g++",
+   "--std=c++0x",
+   "-DNDEBUG",
+   "-O2",
+   "-I",
+   "./minisat/include",
+   "-c",
+   "-o",
+   "Sovler.o",
+   "minisat/solver/Solver.C"
+  ],
+  "file": "minisat/solver/Solver.C"
+ },
+ {
+  "directory": "/home/linjk/tmp/CA/autoCCAG/AutoCCAG_without_acts/MetaTCA",
+  "arguments": [
+   "g++",
+   "--std=c++0x",
+   "-DNDEBUG",
+   "-O2",
+   "-c",
+   "-o",
+   "main.o",
+   "main.cc"
+  ],
+  "file": "main.cc"
+ }
+]

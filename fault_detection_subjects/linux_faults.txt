@@ -1,0 +1,84 @@
+Fault 0:
+99 
+
+Fault 1:
+147 
+
+Fault 2:
+182 
+
+Fault 3:
+98 133 177 
+
+Fault 4:
+101 
+
+Fault 5:
+191 195 
+
+Fault 6:
+89 157 
+
+Fault 7:
+101 107 191 
+
+Fault 8:
+127 
+
+Fault 9:
+104 187 
+
+Fault 10:
+55 182 
+
+Fault 11:
+131 
+
+Fault 12:
+174 
+
+Fault 13:
+11 18 
+
+Fault 14:
+25 26 31 77 207 
+
+Fault 15:
+41 
+
+Fault 16:
+14 50 68 71 
+
+Fault 17:
+150 
+
+Fault 18:
+44 
+
+Fault 19:
+47 53 96 179 
+
+Fault 20:
+117 167 
+
+Fault 21:
+29 181 
+
+Fault 22:
+63 
+
+Fault 23:
+54 93 
+
+Fault 24:
+25 77 101 129 173 
+
+Fault 25:
+55 59 149 
+
+Fault 26:
+5 189 
+
+Fault 27:
+33 153 168 
+

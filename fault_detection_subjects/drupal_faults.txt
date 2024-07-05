@@ -1,0 +1,480 @@
+Fault 0:
+1 11 
+
+Fault 1:
+1 25 
+
+Fault 2:
+3 25 
+
+Fault 3:
+5 29 
+
+Fault 4:
+7 25 
+
+Fault 5:
+5 7 
+
+Fault 6:
+7 25 
+
+Fault 7:
+9 25 
+
+Fault 8:
+1 11 
+
+Fault 9:
+11 29 
+
+Fault 10:
+11 61 
+
+Fault 11:
+1 11 27 
+
+Fault 12:
+11 15 
+
+Fault 13:
+1 11 
+
+Fault 14:
+1 11 
+
+Fault 15:
+9 11 13 
+
+Fault 16:
+1 11 
+
+Fault 17:
+11 15 
+
+Fault 18:
+1 9 13 
+
+Fault 19:
+1 11 19 
+
+Fault 20:
+21 23 
+
+Fault 21:
+1 21 23 
+
+Fault 22:
+21 23 
+
+Fault 23:
+1 3 21 23 
+
+Fault 24:
+25 33 
+
+Fault 25:
+11 27 
+
+Fault 26:
+1 27 
+
+Fault 27:
+1 27 
+
+Fault 28:
+25 29 
+
+Fault 29:
+25 29 
+
+Fault 30:
+1 25 29 
+
+Fault 31:
+25 29 
+
+Fault 32:
+5 25 29 
+
+Fault 33:
+1 29 
+
+Fault 34:
+1 29 
+
+Fault 35:
+29 33 
+
+Fault 36:
+27 33 
+
+Fault 37:
+1 27 33 
+
+Fault 38:
+1 27 33 
+
+Fault 39:
+33 75 
+
+Fault 40:
+27 33 
+
+Fault 41:
+27 33 
+
+Fault 42:
+33 61 
+
+Fault 43:
+33 75 
+
+Fault 44:
+33 35 
+
+Fault 45:
+27 33 
+
+Fault 46:
+21 33 
+
+Fault 47:
+33 41 
+
+Fault 48:
+25 33 
+
+Fault 49:
+1 27 33 
+
+Fault 50:
+25 33 
+
+Fault 51:
+33 37 
+
+Fault 52:
+25 33 
+
+Fault 53:
+33 37 87 
+
+Fault 54:
+25 33 
+
+Fault 55:
+1 33 
+
+Fault 56:
+33 37 
+
+Fault 57:
+33 37 
+
+Fault 58:
+33 75 
+
+Fault 59:
+27 33 
+
+Fault 60:
+33 37 
+
+Fault 61:
+33 37 
+
+Fault 62:
+1 33 87 
+
+Fault 63:
+33 87 
+
+Fault 64:
+33 37 
+
+Fault 65:
+33 87 
+
+Fault 66:
+33 35 37 75 
+
+Fault 67:
+33 37 
+
+Fault 68:
+33 37 
+
+Fault 69:
+11 33 
+
+Fault 70:
+33 37 87 
+
+Fault 71:
+33 53 
+
+Fault 72:
+11 33 
+
+Fault 73:
+29 33 
+
+Fault 74:
+33 37 87 
+
+Fault 75:
+33 37 53 
+
+Fault 76:
+11 33 
+
+Fault 77:
+11 35 
+
+Fault 78:
+35 37 
+
+Fault 79:
+37 87 
+
+Fault 80:
+37 87 
+
+Fault 81:
+37 45 87 
+
+Fault 82:
+5 29 37 87 
+
+Fault 83:
+25 37 
+
+Fault 84:
+37 75 
+
+Fault 85:
+33 37 87 
+
+Fault 86:
+37 87 
+
+Fault 87:
+37 87 
+
+Fault 88:
+37 93 
+
+Fault 89:
+39 87 
+
+Fault 90:
+33 41 
+
+Fault 91:
+45 47 
+
+Fault 92:
+25 47 
+
+Fault 93:
+47 87 
+
+Fault 94:
+27 47 
+
+Fault 95:
+27 47 
+
+Fault 96:
+23 31 47 
+
+Fault 97:
+3 47 
+
+Fault 98:
+27 47 
+
+Fault 99:
+51 61 
+
+Fault 100:
+53 77 
+
+Fault 101:
+27 55 
+
+Fault 102:
+33 37 57 
+
+Fault 103:
+27 61 
+
+Fault 104:
+27 61 
+
+Fault 105:
+11 61 
+
+Fault 106:
+61 63 
+
+Fault 107:
+61 77 
+
+Fault 108:
+35 45 61 
+
+Fault 109:
+61 77 
+
+Fault 110:
+37 61 
+
+Fault 111:
+33 61 
+
+Fault 112:
+45 47 63 
+
+Fault 113:
+61 63 
+
+Fault 114:
+67 75 
+
+Fault 115:
+69 77 
+
+Fault 116:
+33 69 
+
+Fault 117:
+69 73 
+
+Fault 118:
+33 69 
+
+Fault 119:
+71 87 
+
+Fault 120:
+65 71 
+
+Fault 121:
+25 71 
+
+Fault 122:
+1 29 71 
+
+Fault 123:
+65 71 
+
+Fault 124:
+65 71 
+
+Fault 125:
+71 87 
+
+Fault 126:
+65 73 
+
+Fault 127:
+45 73 
+
+Fault 128:
+45 73 
+
+Fault 129:
+65 71 75 
+
+Fault 130:
+25 75 
+
+Fault 131:
+33 75 77 
+
+Fault 132:
+9 71 75 
+
+Fault 133:
+9 75 
+
+Fault 134:
+25 77 
+
+Fault 135:
+61 77 
+
+Fault 136:
+61 77 
+
+Fault 137:
+77 93 
+
+Fault 138:
+61 63 77 
+
+Fault 139:
+45 77 
+
+Fault 140:
+13 77 
+
+Fault 141:
+25 77 
+
+Fault 142:
+61 63 77 
+
+Fault 143:
+29 77 
+
+Fault 144:
+7 37 83 
+
+Fault 145:
+37 87 
+
+Fault 146:
+87 93 
+
+Fault 147:
+33 87 
+
+Fault 148:
+1 29 87 
+
+Fault 149:
+37 87 
+
+Fault 150:
+75 87 
+
+Fault 151:
+63 89 
+
+Fault 152:
+37 91 
+
+Fault 153:
+87 91 
+
+Fault 154:
+27 93 
+
+Fault 155:
+25 93 
+
+Fault 156:
+27 93 
+
+Fault 157:
+27 93 
+
+Fault 158:
+21 93 
+
+Fault 159:
+27 93 
+
